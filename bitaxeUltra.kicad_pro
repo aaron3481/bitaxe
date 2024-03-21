@@ -35,8 +35,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.0,
-          "width": 3.0
+          "height": 0.45,
+          "width": 0.45
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -620,6 +620,10 @@
     [
       "8e8832ea-6bf1-49d2-b3a5-32a207f555d2",
       "Fan"
+    ],
+    [
+      "4acacee5-a3e2-4c18-93a0-3982831ee9a2",
+      "LED Control"
     ]
   ],
   "text_variables": {}
